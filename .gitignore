@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *.class
 *.gitignore
 *.settings
@@ -11,3 +12,28 @@
 *.project
 *.classpath
 *apiclient_cert.p12
+=======
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+>>>>>>> 37dc41492380c351a68f5da71b7410b19e5d0091
